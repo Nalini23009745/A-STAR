@@ -1,7 +1,7 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name: NALINI P S</h3>
+<h3>Name: NALINI P </h3>
 <h3>Register Number:  212223220063    </h3>
-<h3> Date: 03/08/2026 </h3>
+<h3> Date: 13/08/2026 </h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
